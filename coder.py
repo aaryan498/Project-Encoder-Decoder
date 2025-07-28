@@ -1,5 +1,13 @@
+''' 
+[IMP] NOTE: 
+ 1. If you are getting any type of Error in code...you can clear it out with me on LinkedIN.
+ 2. I have attached my LinkedIN post link of this project in README section...
+ 3. You can Post your Doubts there in COMMENTS SECTION...I will help in best possible way
+'''
+# Imported required modules for the task...!
 import random
 import string
+# Created two function that returns encoded/decoded  word in message.
 def word_encoder(word):
     if (len(word)<3):
         rev=''.join(reversed(word))
@@ -26,6 +34,7 @@ def word_decoder(word):
         list_of_new_string.insert(0,letter_at_last)
         required_word=''.join(list_of_new_string)
         return required_word
+# Created two function hat returns encoded/decoded message.
 def encoder(message):
     encoded_message1=""
     for word in message.split():
@@ -42,6 +51,22 @@ def decoder(message_decode):
     else:
         decoded_message2=decoded_message1[:-1]
     return decoded_message2
+# Actual code that is shown on console starts here...Enjoy Coding and Decoding
+
+# Encoding/Decoding Rules:
+'''
+Encoding Logic:
+1. If the word has less than 3 letters, it’s simply reversed.
+2. If the word has 3 or more letters:
+3. First letter is moved to the end.
+4. Three random letters are added at the beginning and the end to obfuscate it.
+
+Decoding Logic:
+1. Strips the random characters.
+2. Moves the last character (which was the original first letter) back to the front.
+'''
+
+
 print("\n\n$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Welcome to Encoder/Decoder ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$\n\n")
 input1=input("Do you want to OPEN Encoder/Decoder (yes/no): ")   
 while (input1=="yes"):
@@ -62,4 +87,4 @@ while (input1=="yes"):
         print(decoded_message,"\n\n")
     input1=input("Do you want to open Encoder/Decoder again (yes/no): ")
 else:
-    print("\n\nOK...SEE YOU NEXT TIME...!\n\n")
+    print("\n\nOK...SEE YOU NEXT TIME...!\nAuthor: Aaryan Kumar\n\nStar the Repository you liked this Project")
