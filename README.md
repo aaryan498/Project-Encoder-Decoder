@@ -122,7 +122,7 @@ Project-Encoder-Decoder/
 
 ## 🙋‍♂️ Author
 
-[![Aaryan Kumar - GitHub](https://img.shields.io/badge/GitHub-aaryan498-181717?logo=github&style=for-the-badge)](https://github.com/aaryan498)
+[![Aaryan Kumar - GitHub](https://img.shields.io/badge/GitHub-AARYAN_KUMAR-181717?logo=github&style=for-the-badge)](https://github.com/aaryan498)
 
 ---
 
