@@ -6,15 +6,16 @@ A simple yet fun Python project that encodes and decodes secret messages using a
 
 ## 📌 Table of Contents
 
-[![About](https://img.shields.io/badge/📖-About-blue?style=for-the-badge)](#-about)
-[![Features](https://img.shields.io/badge/✨-Features-green?style=for-the-badge)](#-features)
-[![How It Works](https://img.shields.io/badge/⚙️-How_It_Works-orange?style=for-the-badge)](#️-how-it-works)
-[![Getting Started](https://img.shields.io/badge/🚀-Getting_Started-yellow?style=for-the-badge)](#-getting-started)
-[![Usage Examples](https://img.shields.io/badge/🧪-Usage_Examples-purple?style=for-the-badge)](#-usage-examples)
-[![File Structure](https://img.shields.io/badge/📂-File_Structure-lightgrey?style=for-the-badge)](#-file-structure)
-[![Technologies Used](https://img.shields.io/badge/🛠️-Technologies_Used-brightgreen?style=for-the-badge)](#️-technologies-used)
-[![Future Improvements](https://img.shields.io/badge/📝-Future_Improvements-blueviolet?style=for-the-badge)](#-future-improvements)
-[![Author](https://img.shields.io/badge/🙋‍♂️-Author-ff69b4?style=for-the-badge)](#-author)
+[![About](https://img.shields.io/badge/📖-About-blue?style=for-the-badge)](#-about)  
+[![Features](https://img.shields.io/badge/✨-Features-green?style=for-the-badge)](#-features)  
+[![How It Works](https://img.shields.io/badge/⚙️-How_It_Works-orange?style=for-the-badge)](#️-how-it-works)  
+[![Getting Started](https://img.shields.io/badge/🚀-Getting_Started-yellow?style=for-the-badge)](#-getting-started)  
+[![Usage Examples](https://img.shields.io/badge/🧪-Usage_Examples-purple?style=for-the-badge)](#-usage-examples)  
+[![File Structure](https://img.shields.io/badge/📂-File_Structure-lightgrey?style=for-the-badge)](#-file-structure)  
+[![Technologies Used](https://img.shields.io/badge/🛠️-Technologies_Used-brightgreen?style=for-the-badge)](#️-technologies-used)  
+[![Future Improvements](https://img.shields.io/badge/📝-Future_Improvements-blueviolet?style=for-the-badge)](#-future-improvements)  
+[![Author](https://img.shields.io/badge/🙋‍♂️-Author-ff69b4?style=for-the-badge)](#-author)  
+[![Need Help](https://img.shields.io/badge/💬-Need_Help-cyan?style=for-the-badge)](#-need-help)
 
 ---
 
@@ -122,8 +123,16 @@ Project-Encoder-Decoder/
 
 ## 🙋‍♂️ Author
 
-[![Aaryan Kumar - GitHub](https://img.shields.io/badge/GitHub-AARYAN_KUMAR-181717?logo=github&style=for-the-badge)](https://github.com/aaryan498)
+[![Aaryan Kumar - GitHub](https://img.shields.io/badge/GitHub-aaryan498-181717?logo=github&style=for-the-badge)](https://github.com/aaryan498)
 
 ---
 
-> 💡 *If you like this project, feel free to give it a ⭐ on GitHub and share your feedback!*
+## 💬 Need Help?
+
+If you face any **errors** while running the project or get stuck at any point, feel free to reach out in the **comment section** of my LinkedIn project post linked below. I’ll be happy to help you there!
+
+[![Comment on LinkedIn](https://img.shields.io/badge/💬%20Ask%20on%20LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/posts/aaryan-kumar-ai-498-coder_python-opensource-beginnerprojects-activity-7355539933119344640-s_ET?utm_source=share&utm_medium=member_android&rcm=ACoAAFxqlpgBiTnkrCNekCuz5lwACzH6vXUUKvA)
+
+---
+
+> 💡 *If you like this project, give it a ⭐ on GitHub and let others know!*
