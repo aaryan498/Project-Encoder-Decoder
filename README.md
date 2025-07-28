@@ -6,15 +6,15 @@ A simple yet fun Python project that encodes and decodes secret messages using a
 
 ## 📌 Table of Contents
 
-- [📖 About](#-about)
-- [✨ Features](#-features)
-- [⚙️ How It Works](#️-how-it-works)
-- [🚀 Getting Started](#-getting-started)
-- [🧪 Usage Examples](#-usage-examples)
-- [📂 File Structure](#-file-structure)
-- [🛠️ Technologies Used](#️-technologies-used)
-- [📝 Future Improvements](#-future-improvements)
-- [🙋‍♂️ Author](#-author)
+[![About](https://img.shields.io/badge/📖-About-blue?style=for-the-badge)](#-about)
+[![Features](https://img.shields.io/badge/✨-Features-green?style=for-the-badge)](#-features)
+[![How It Works](https://img.shields.io/badge/⚙️-How_It_Works-orange?style=for-the-badge)](#️-how-it-works)
+[![Getting Started](https://img.shields.io/badge/🚀-Getting_Started-yellow?style=for-the-badge)](#-getting-started)
+[![Usage Examples](https://img.shields.io/badge/🧪-Usage_Examples-purple?style=for-the-badge)](#-usage-examples)
+[![File Structure](https://img.shields.io/badge/📂-File_Structure-lightgrey?style=for-the-badge)](#-file-structure)
+[![Technologies Used](https://img.shields.io/badge/🛠️-Technologies_Used-brightgreen?style=for-the-badge)](#️-technologies-used)
+[![Future Improvements](https://img.shields.io/badge/📝-Future_Improvements-blueviolet?style=for-the-badge)](#-future-improvements)
+[![Author](https://img.shields.io/badge/🙋‍♂️-Author-ff69b4?style=for-the-badge)](#-author)
 
 ---
 
@@ -122,8 +122,7 @@ Project-Encoder-Decoder/
 
 ## 🙋‍♂️ Author
 
-**Aaryan Kumar**  
-🌐 [GitHub](https://github.com/aaryan498)
+[![Aaryan Kumar - GitHub](https://img.shields.io/badge/GitHub-aaryan498-181717?logo=github&style=for-the-badge)](https://github.com/aaryan498)
 
 ---
 
